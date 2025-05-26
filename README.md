@@ -11,8 +11,7 @@
 👯 I’m open to collaborating on Android open-source projects or innovative app ideas.
 
 💼 Internship experiences:
-- Academor (Android Development)
-- Optisoft Business and Solutions Pvt. Ltd.
+- Vasukam
 
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/) | [Email](mailto:kartiksharma242001@gmail.com) | [GitHub](https://github.com/kartik417)
