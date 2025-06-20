@@ -1,43 +1,51 @@
-# Hi there, I'm Kartik Sharma 👋
+# 👋 Hi there, I'm Kartik Sharma
 
-### 🚀 Aspiring Android Developer | Software Engineer in Training
-
----
-
-🔭 I’m currently working on real-time sign language translation and Android app development projects.
-
-🌱 Learning and exploring: Kotlin, Jetpack Compose, Firebase, AI & ML integration in Android.
-
-👯 I’m open to collaborating on Android open-source projects or innovative app ideas.
-
-💼 Internship experiences:
-- Vasukam
-
-📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/) | [Email](mailto:kartiksharma242001@gmail.com) | [GitHub](https://github.com/kartik417)
+### 🚀 Aspiring Android Developer | AI + Mobile Tech Enthusiast | Software Engineer in Training
 
 ---
 
-### Skills & Tools
+🔭 **Currently Building:**  
+Real-Time Sign Language Translator — integrating AI, 3D modeling, and real-time speech-to-ASL translation on Android.  
 
-- Languages: Kotlin, Java, SQL  
-- Frameworks: Android SDK, Jetpack Compose, Firebase  
-- Tools: Android Studio, Git, Retrofit, Picasso, Hilt, MediaPipe  
+🌱 **Actively Learning:**  
+Kotlin • Jetpack Compose • Firebase • MediaPipe • AI/ML for Mobile • Blender for 3D animation • NodeJs 
+
+🤝 **Open to Collaborate:**  
+On innovative Android projects, accessibility-focused solutions, and open-source contributions.  
+
+💼 **Internship Experience:**  
+- **Vasukam** – Android App Development  
+
+📫 **Let's Connect:**  
+[🔗 LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/) | [📧 Email](mailto:kartiksharma242001@gmail.com) | [💻 GitHub](https://github.com/kartik417)
 
 ---
 
-### Projects
+### 🛠️ Skills & Tools
 
-- **Real-Time Sign Language Translator** – AI-powered Android app for translating speech to ASL using 3D models.  
-- **Online Voting System** – Secure and user-friendly Android app for online elections.  
-- **News App - MindFeed** – Dynamic news app with login, personalized feeds, and text-to-speech.
+**Languages:** Kotlin • Java • SQL  
+**Frameworks & APIs:** Android SDK • Jetpack Compose • Firebase • Hilt • Retrofit • MediaPipe  
+**Tools:** Android Studio • Git & GitHub • Blender • ML Kit • Picasso  
 
 ---
 
-### GitHub Stats
+### 🚀 Projects
+
+- 🎯 **Real-Time Sign Language Translator**  
+AI-powered Android app converting speech to ASL using 3D GLB models and MediaPipe hand tracking.
+
+- 🗳️ **Online Voting System**  
+Secure and user-friendly Android app for digital elections with real-time vote casting and verification.
+
+- 📰 **MindFeed – News App**  
+Smart news app with text-to-speech, personalized feeds using ML, and gesture-based navigation.
+
+---
+
+### 📊 GitHub Stats
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik417&show_icons=true&theme=tokyonight)
 
 ---
 
-Thanks for stopping by! Feel free to connect! 😊
+Thanks for visiting my profile! Let’s build something impactful together. 🚀
