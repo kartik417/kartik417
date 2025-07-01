@@ -5,19 +5,21 @@
 ---
 
 🔭 **Current Focus**  
-Developing a Real-Time Sign Language Translator: Leveraging AI, 3D modeling, and real-time speech-to-ASL translation for Android.
+Building a **Real-Time Sign Language Translator** using AI, 3D GLB models, and speech-to-ASL translation for Android.
 
-🌱 **Learning & Growth**  
-Kotlin • Jetpack Compose • Firebase • MediaPipe • Mobile AI/ML • Blender (3D Animation) • Node.js
+🌱 **Actively Learning**  
+Kotlin • Jetpack Compose • Firebase • MediaPipe • Mobile AI/ML • Blender (3D Animation) • Node.js • MongoDB
 
-🤝 **Collaboration**  
-Open to collaborating on innovative Android projects, accessibility solutions, and open-source initiatives.
+🤝 **Open to Collaborations**  
+Innovative Android apps • Accessibility tech • Hackathons • Open-source initiatives
 
-💼 **Experience**  
-- **Android App Development Intern** at Vasukam
+💼 **Experience Highlights**  
+- 🧠 **Android Intern** – *Optisoft Business & Solutions, Jaipur*  
+- 📲 **App Developer Intern** – *Vasukam (Academor)*  
+- 🏆 **2nd Place Winner** – *DevSummit Hackathon 2025 (Real-Time Sign Language App)*
 
-📫 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/) | [Email](mailto:kartiksharma242001@gmail.com) | [GitHub](https://github.com/kartik417)
+📫 **Connect With Me**  
+[📧 Email](mailto:kartiksharma242001@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/) | [💻 GitHub](https://github.com/kartik417)
 
 ---
 
@@ -27,30 +29,31 @@ Open to collaborating on innovative Android projects, accessibility solutions, a
 Kotlin • Java • SQL
 
 **Frameworks & Libraries:**  
-Android SDK • Jetpack Compose • Firebase • Hilt • Retrofit • MediaPipe
+Jetpack Compose • Android SDK • Hilt • Retrofit • Firebase • MediaPipe • Express.js
 
-**Tools:**  
-Android Studio • Git & GitHub • Blender • ML Kit • Picasso
+**Tools & Platforms:**  
+Android Studio • Git & GitHub • Blender • MongoDB Atlas • ML Kit • Postman
 
 ---
 
-### 💡 Notable Projects
+### 💡 Featured Projects
 
-- **Real-Time Sign Language Translator**  
-  AI-powered Android application converting speech to ASL using 3D GLB models and MediaPipe hand tracking.
+- 🎯 **Real-Time Sign Language Translator**  
+  Converts speech to animated ASL using MediaPipe & 3D GLB models. Features real-time recognition & AI gloss mapping.
 
-- **Online Voting System**  
-  Secure, user-friendly Android platform for digital elections, supporting real-time vote casting and verification.
+- 🗳️ **Online Voting System App**  
+  Android-based voting app with Firebase Authentication & Realtime Database support.
 
-- **MindFeed – News App**  
-  Smart news application featuring text-to-speech, personalized news feeds via machine learning, and gesture navigation.
+- 📰 **MindFeed – AI News App**  
+  News app with text-to-speech, personalized feeds via ML, and gesture-based navigation.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik417&show_icons=true&theme=tokyonight&v=2)
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik417&show_icons=true&theme=tokyonight)
 
 ---
 
-Thanks for stopping by! Let's connect and create impactful solutions together. 🚀
+Thanks for stopping by!  
+Let’s connect and build inclusive, AI-powered Android apps for the future 🚀
