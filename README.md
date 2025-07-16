@@ -14,7 +14,6 @@ Kotlin • Jetpack Compose • Firebase • MediaPipe • Mobile AI/ML • Blend
 Innovative Android apps • Accessibility tech • Hackathons • Open-source initiatives
 
 💼 **Experience Highlights**  
-- 🧠 **Android Intern** – *Optisoft Business & Solutions, Jaipur*  
 - 📲 **App Developer Intern** – *Vasukam (Academor)*  
 - 🏆 **2nd Place Winner** – *DevSummit Hackathon 2025 (Real-Time Sign Language App)*
 
