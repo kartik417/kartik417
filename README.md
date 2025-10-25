@@ -1,58 +1,81 @@
 # 👋 Hi, I'm Kartik Sharma
 
-### 🚀 Android Developer | AI & Mobile Tech Enthusiast | Software Engineer
+### 🚀 Android, Flutter & Java Backend Developer | AI & Mobile Tech Enthusiast | Software Engineer
 
 ---
 
-🔭 **Current Focus**  
-Building a **Real-Time Sign Language Translator** using AI, 3D GLB models, and speech-to-ASL translation for Android.
+<div align="center">
 
-🌱 **Actively Learning**  
-Kotlin • Jetpack Compose • Firebase • MediaPipe • Mobile AI/ML • Blender (3D Animation) • Node.js • MongoDB
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartik-sharma-5a220b31b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Kartik-black?style=for-the-badge&logo=github)](https://github.com/kartik417)  
+[![Email](https://img.shields.io/badge/Email-kartiksharma242001@gmail.com-c14438?style=for-the-badge&logo=gmail)](mailto:kartiksharma242001@gmail.com)
 
-🤝 **Open to Collaborations**  
-Innovative Android apps • Accessibility tech • Hackathons • Open-source initiatives
+</div>
 
-💼 **Experience Highlights**  
+---
+
+## 🔭 Current Focus
+- Building **Real-Time Sign Language Translators** using AI, **3D GLB models**, MediaPipe, and speech-to-ASL conversion for Android.  
+- Developing **Java backend services** using Spring Boot, PostgreSQL, REST APIs, JWT authentication, and role-based authorization.  
+- Creating **cross-platform mobile apps** with **Flutter** for Android and iOS.  
+- Exploring **AI-driven accessibility solutions** for mobile apps.
+
+---
+
+## 🌱 Actively Learning
+Kotlin • Flutter • Dart • Jetpack Compose • Firebase • MediaPipe • Mobile AI/ML • Blender (3D Animation) • Node.js • MongoDB • Spring Boot • PostgreSQL • REST APIs • JWT & Security
+
+---
+
+## 💼 Experience Highlights
 - 📲 **App Developer Intern** – *Vasukam (Academor)*  
-- 🏆 **2nd Place Winner** – *DevSummit Hackathon 2025 (Real-Time Sign Language App)*
-
-📫 **Connect With Me**  
-[📧 Email](mailto:kartiksharma242001@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/) | [💻 GitHub](https://github.com/kartik417)
+- 🏆 **2nd Place Winner** – *DevSummit Hackathon 2025* (Real-Time Sign Language App)  
+- 💻 Building **Java Spring Boot backend services** with secure authentication, CRUD APIs, and PostgreSQL integration  
+- 💡 Developing AI-powered **speech-to-sign language apps** with interactive 3D avatars  
+- 📱 Creating **cross-platform mobile apps using Flutter**  
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 **Languages:**  
-Kotlin • Java • SQL
+Kotlin • Java • Dart • SQL • JavaScript  
 
 **Frameworks & Libraries:**  
-Jetpack Compose • Android SDK • Hilt • Retrofit • Firebase • MediaPipe • Express.js
+Flutter • Jetpack Compose • Android SDK • Hilt • Retrofit • Firebase • MediaPipe • Express.js • ML Kit • Spring Boot • Hibernate • JWT  
 
 **Tools & Platforms:**  
-Android Studio • Git & GitHub • Blender • MongoDB Atlas • ML Kit • Postman
+Android Studio • VS Code • Git & GitHub • Blender • PostgreSQL • MongoDB Atlas • Postman • Hugging Face Models  
 
 ---
 
-### 💡 Featured Projects
+## 💡 Featured Projects
 
-- 🎯 **Real-Time Sign Language Translator**  
-  Converts speech to animated ASL using MediaPipe & 3D GLB models. Features real-time recognition & AI gloss mapping.
+<div align="center">
 
-- 🗳️ **Online Voting System App**  
-  Android-based voting app with Firebase Authentication & Realtime Database support.
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎯 Real-Time Sign Language Translator | Converts speech to **animated ASL gestures** using MediaPipe & 3D GLB models. Real-time hand tracking & AI gloss mapping. | Kotlin • Android • MediaPipe • Blender • AI/ML |
+| 🗳️ Online Voting System App | Android voting app with **Firebase Auth**, real-time DB, election dashboard & ballot interface. | Kotlin • Firebase • XML • RecyclerView |
+| 📱 Flutter To-Do List App | Cross-platform mobile app with **CRUD functionality**, REST APIs, and JWT authentication. | Flutter • Dart • Spring Boot • PostgreSQL |
+| ⚙️ Java Backend Services | RESTful APIs with **Spring Boot**, PostgreSQL, JWT authentication, and role-based access control. | Java • Spring Boot • PostgreSQL • JWT |
 
-- 📰 **MindFeed – AI News App**  
-  News app with text-to-speech, personalized feeds via ML, and gesture-based navigation.
-
----
-
-### 📊 GitHub Stats
-
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik417&show_icons=true&theme=tokyonight)
+</div>
 
 ---
 
-Thanks for stopping by!  
-Let’s connect and build inclusive, AI-powered Android apps for the future 🚀
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik417&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik417&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let’s Connect
+I’m open to **collaborations on Android, Flutter apps, AI/ML projects, and backend services**. Let’s build **inclusive, AI-powered mobile solutions** together 🚀  
+
+[💼 LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/) • [💻 GitHub](https://github.com/kartik417) • [📧 Email](mailto:kartiksharma242001@gmail.com)
