@@ -1,98 +1,147 @@
 # 👋 Hi, I'm Kartik Sharma
 
-### 🚀 Mobile App Developer | Java Backend Engineer | Web & Platform Builder | AI & Accessibility Enthusiast
+### 🚀 Full Stack Developer | Backend Engineer | MERN Stack | AI & RAG Enthusiast
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartik-sharma-5a220b31b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-kartik417-black?style=for-the-badge&logo=github)](https://github.com/kartik417)  
-[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:kartiksharma242001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kartik-sharma-5a220b31b/)
+[![GitHub](https://img.shields.io/badge/GitHub-kartik417-black?style=for-the-badge\&logo=github)](https://github.com/kartik417)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge\&logo=gmail)](mailto:kartiksharma242001@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
-I am a **hands-on software developer** with a **project-driven learning approach**.  
-Instead of waiting to master every concept upfront, I focus on **building complete, working systems**, learning fundamentals as needed while implementing real features.
+# 🧑‍💻 About Me
 
-I’ve worked across **mobile apps, backend services, web interfaces, and platform tools**, and I’m comfortable navigating documentation, debugging, and iterating to deliver functional solutions.
+I'm a **Full Stack Developer** passionate about building scalable web applications, secure backend systems, and AI-powered products.
 
----
+I enjoy solving real-world problems through software and believe in learning by building production-ready applications. My primary focus is on **Backend Development with Node.js**, while also developing responsive frontends using React.
 
-## 🔭 What I’ve Worked On
-- 📱 Built Android applications using **Kotlin, XML, and Jetpack components**
-- 🔁 Developed cross-platform mobile apps using **Flutter**
-- ⚙️ Created backend services with **Java Spring Boot**, REST APIs & **PostgreSQL**
-- 🔐 Implemented **JWT authentication** and role-based authorization
-- ♿ Built **AI-driven accessibility systems**, including sign-language translation
-- 🌐 Built functional **web UIs and small systems using React (JavaScript & CSS)**
-- 🔗 Created and integrated APIs using **Node.js & Express**
-- ☁️ Worked with **Salesforce (LWC, Apex fundamentals, platform workflows)** while building components
+Currently, I'm exploring **AI, RAG (Retrieval-Augmented Generation), LangChain, Vector Databases, and LLM integrations** to build intelligent applications.
 
 ---
 
-## 🌱 Technologies & Skills (Hands-on & Project-Based)
+# 🚀 What I'm Working On
 
-### Programming Languages
-Java • Kotlin • Dart • JavaScript • SQL
+* 💻 Building scalable **Full Stack MERN Applications**
+* ⚡ Developing secure REST APIs using **Node.js & Express**
+* 🗄️ Working with **PostgreSQL, Prisma ORM & Redis**
+* 🤖 Building AI applications using **Gemini API, LangChain & ChromaDB**
+* 📄 Creating RAG-based Document Chat applications
+* 🌐 Developing modern React applications
+* 📈 Learning scalable backend architecture & system design
 
-### Frontend & Mobile
-React • HTML • CSS  
-Android SDK • Jetpack Compose • Flutter • Firebase
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+* JavaScript (ES6+)
+* Java
+* SQL
+* Dart
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* Vite
 
 ### Backend
-Spring Boot • REST APIs • JWT Authentication  
-Node.js • Express.js  
-PostgreSQL • MongoDB
 
-### AI & Accessibility
-MediaPipe • ML Kit • Speech Processing • 3D GLB Models
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Role-Based Access Control (RBAC)
 
-### Platforms & Tools
-Salesforce (LWC, Apex fundamentals)  
-Git & GitHub • Android Studio • VS Code • Postman • Blender
+### Databases
+
+* PostgreSQL
+* Prisma ORM
+* MongoDB
+* Redis
+
+### AI & LLM
+
+* Google Gemini API
+* LangChain
+* ChromaDB
+* PDF Processing
+* Embeddings
+* RAG Applications
+
+### Tools
+
+* Git & GitHub
+* Postman
+* VS Code
+* Render
+* Vercel
+* Neon PostgreSQL
+* Cloudinary
 
 ---
 
-## 💼 Experience & Achievements
-- 📲 **App Developer Intern** – *Vasukam (Academor)*
-- 🏆 **2nd Place Winner – DevSummit Hackathon 2025**
-  - *Project: Real-Time Sign Language Translator*
-- 💻 Built **secure backend APIs** with database integration
-- 📱 Developed **multiple mobile applications** from UI to backend
-- 🧠 Continuously improving skills through **real-world system building**
+# 💼 Experience
+
+### Backend / Full Stack Developer
+
+* Built secure authentication systems using JWT
+* Designed REST APIs with clean architecture
+* Implemented Redis caching for faster API responses
+* Worked with PostgreSQL using Prisma ORM
+* Built AI-powered applications using LangChain & Gemini
+* Developed responsive React applications
+* Integrated cloud services and third-party APIs
 
 ---
 
-## 💡 Featured Projects
+# 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-|-------|------------|------------|
-| ♿ Real-Time Sign Language Translator | Converts speech into animated sign language using AI, MediaPipe & 3D avatars | Kotlin • Android • MediaPipe • Blender |
-| 🗳️ Online Voting System App | Android app with Firebase authentication & real-time voting | Kotlin • Firebase • XML |
-| 📱 Flutter To-Do App | Cross-platform app with CRUD operations & backend integration | Flutter • Dart • Spring Boot |
-| ⚙️ Java Backend Services | REST APIs with JWT authentication & role-based access | Java • Spring Boot • PostgreSQL |
-| 🌐 Web UI & System Builds | Built functional UIs and backend integrations while learning concepts hands-on | React • JavaScript • CSS • Node.js |
+| Project                              | Description                                                                                                        | Tech Stack                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| 💰 Personal Finance Tracker          | Full Stack finance management platform with analytics dashboard, JWT authentication, Redis caching, and PostgreSQL | React • Node.js • Express • PostgreSQL • Prisma • Redis |
+| 🤖 AI Document Assistant (RAG)       | Upload PDFs and chat with documents using LangChain, Gemini, embeddings, and ChromaDB                              | React • Express • LangChain • Gemini • ChromaDB         |
+| ♿ Real-Time Sign Language Translator | AI-powered Android application converting speech into animated sign language                                       | Kotlin • MediaPipe • Blender                            |
+| 🚜 Farm2Fabric Backend               | Backend APIs with authentication, PostgreSQL, Prisma, and Socket.IO                                                | Node.js • Express • PostgreSQL • Prisma                 |
+| 🌐 MERN Web Applications             | Responsive web applications with authentication, APIs, and database integration                                    | React • Node.js • MongoDB • Express                     |
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
 
-<div align="center">
+* Advanced Backend Engineering
+* System Design
+* Scalable Architecture
+* Docker
+* AWS
+* Microservices
+* Message Queues (Kafka & RabbitMQ)
+* AI Agents & RAG Systems
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik417&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik417&layout=compact&theme=tokyonight)
+---
 
 </div>
 
+
+# 🤝 Let's Connect
+
+I'm open to collaborating on:
+
+* Full Stack Development
+* Backend Engineering
+* Open Source Projects
+* AI & RAG Applications
+* API Development
+* React Applications
+
+📩 Feel free to connect through **LinkedIn** or **Email**.
+
 ---
 
-## 🤝 Let’s Connect
-I’m open to collaborating on:
-- Android & Flutter applications  
-- Backend & API development  
-- Web UI & system integrations  
-- AI-powered accessibility solutions  
-
-📩 Feel free to reach out via **LinkedIn** or **Email**.
+⭐ *"Build. Learn. Improve. Repeat."*
